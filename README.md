@@ -6,7 +6,7 @@ I am a Full-Stack Web Developer and BCA graduate from Tilak Maharashtra Vidyapee
 - 🔭 I’m currently building **Strive**, an AI-driven study ecosystem app featuring attention tracking and parental reporting.
 - 💼 I offer custom full-stack web development services. You can check out my work at [ashudishagat.in](https://ashudishagat.in).
 - 🚀 I have completed technical internships in Data Analytics & AI with Edulyt India, and worked on satellite systems and aerospace mechanisms with Agnirva Space.
-- 🎓 I hold a Bachelor of Computer Application degree and have actively prepared for the MCA CET.
+- 🎓 I hold a Bachelor of Computer Application degree and am currently pursuing my MCA at IMCC, Pune.
 - 🏋️‍♂️ Fun fact: When I'm not writing code, I keep up with a strict daily running and gym routine. 
 
 ### 🛠️ Tech Stack & Tools
@@ -37,4 +37,3 @@ I am a Full-Stack Web Developer and BCA graduate from Tilak Maharashtra Vidyapee
 
 ### 📫 Connect with me
 - **Portfolio:** [ashudishagat.in](https://ashudishagat.in)
-- 
