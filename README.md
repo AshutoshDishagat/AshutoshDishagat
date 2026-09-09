@@ -1,49 +1,23 @@
-# Strive
+# Hi there 👋, I'm Ashutosh Dishagat
 
-An AI-driven study ecosystem mobile application designed to enhance focus and provide actionable insights for academic success. 
+I am a Full-Stack Web Developer and BCA graduate from Tilak Maharashtra Vidyapeeth University. I focus on building robust applications with a clean, modern visual design aesthetic, and I am highly interested in integrating AI tools into practical software solutions.
 
-## 🚀 Features
+### 👨‍💻 About Me
+- 🔭 I’m currently building **Strive**, an AI-driven study ecosystem app featuring attention tracking and parental reporting.
+- 💼 I offer custom full-stack web development services. You can check out my work at [ashudishagat.in](https://ashudishagat.in).
+- 🚀 I have completed technical internships in Data Analytics & AI with Edulyt India, and worked on satellite systems and aerospace mechanisms with Agnirva Space.
+- 🎓 I hold a Bachelor of Computer Application degree and have actively prepared for the MCA CET.
+- 🏋️‍♂️ Fun fact: When I'm not writing code, I keep up with a strict daily running and gym routine. 
 
-* **AI Attention Tracking:** Monitors and analyzes study patterns to help maintain optimal focus levels.
-* **Parental Reporting Dashboard:** Generates comprehensive progress reports and real-time updates for parents.
-* **Modern Interface:** A clean, non-ascetic, and fully modern visual design aesthetic for an intuitive user experience.
+### 🛠️ Tech Stack & Tools
+- **Architecture & Languages:** MERN Stack, Java, JavaScript/TypeScript, Tailwind CSS
+- **AI & Data:** Python (Data Science), Google AI Studio, ElevenLabs API, Claude, ChatGPT
+- **Tools & Environments:** VS Code, Git/GitHub, VMware, VirtualBox, Antigravity IDE
 
-## 🛠️ Tech Stack
+### 🏆 Certifications & Training
+- Python for Data Science (NPTEL & SWAYAM)
+- Digital Badges via IBM SkillsBuild
+- BuildWithIndia Innovation Event & TantraUdgama Participant
 
-* **Frontend / Mobile:** Frontend framework for mobile development
-* **Backend:** Node.js / Express (MERN Stack architecture)
-* **Database:** MongoDB
-* **Styling:** Tailwind CSS
-* **Languages:** Java, JavaScript/TypeScript
-
-## ⚙️ Installation & Setup
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-username/strive.git
-   ```
-2. **Navigate to the project directory:**
-   ```bash
-   cd strive
-   ```
-3. **Install dependencies:**
-   ```bash
-   npm install
-   ```
-4. **Configure environment variables:**
-   Create a `.env` file in the root directory and add your required API keys (e.g., database URI, AI service keys).
-
-5. **Run the development server:**
-   ```bash
-   npm start
-   ```
-
-## 👨‍💻 Author
-
-**Ashutosh Dishagat**
-* Portfolio: [ashudishagat.in](https://ashudishagat.in)
-* GitHub: [@your-username](https://github.com/your-username)
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+### 📫 Connect with me
+- **Portfolio:** [ashudishagat.in](https://ashudishagat.in)
